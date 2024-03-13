@@ -52,7 +52,7 @@ input: {
     width: 0,
     height: 2,
   },
-  elevation: 5, // Para dispositivos Android
+  elevation: 5, // FFFFFUCKYOUUU
 },
 image: {
   width: 170, 
